@@ -1,0 +1,208 @@
+					TRICK TO LEARN SQUARE UPTO 50
+
+IF YOU HAVE PRIOR KNOWLEDGE OF SQUARE UPTO 25 THEN IT WILL BE EASY FOR YOU...
+
+So Lets Start...
+LETS QUICKLY WRITE DOWN ALL THE SQUARES UPTO 50...
+
+0 ~~ 0
+1 ~~ 1
+2 ~~ 4
+3 ~~ 9
+4 ~~ 16
+5 ~~ 25
+6 ~~ 36
+7 ~~ 49
+8 ~~ 64
+9 ~~ 81
+10 ~~ 100
+11 ~~ 121
+12 ~~ 144
+13 ~~ 169
+14 ~~ 196
+15 ~~ 225
+16 ~~ 256
+17 ~~ 289
+18 ~~ 324
+19 ~~ 361
+20 ~~ 400
+21 ~~ 441
+22 ~~ 484
+23 ~~ 529
+24 ~~ 576
+25 ~~ 625
+26 ~~ 676
+27 ~~ 729
+28 ~~ 784
+29 ~~ 841
+30 ~~ 900
+31 ~~ 961
+32 ~~ 1024
+33 ~~ 1089
+34 ~~ 1156
+35 ~~ 1225
+36 ~~ 1296
+37 ~~ 1369
+38 ~~ 1444
+39 ~~ 1521
+40 ~~ 1600
+41 ~~ 1681
+42 ~~ 1764
+43 ~~ 1849
+44 ~~ 1936
+45 ~~ 2025
+46 ~~ 2116
+47 ~~ 2209
+48 ~~ 2304
+49 ~~ 2401
+50 ~~ 2500
+
+First Method:
+
+if you know a square and you want to predict next square then it will be n*n + 2*n + 1  where n is the current number whose square you know..
+Now let me explain you with an example...
+
+If you know square of 5 and want to predict the square of 6 then it will be 5*5 + 2*5 + 1 = 36.
+Here you know 5*5 which is 25 and its easy to add 2*5+1 which is 11 to 25 so that 11+25 becomes 36
+
+Overall you have to add twice of your number with unit addition to your known square...
+
+Few more examples are....
+for 3 it will be 4 +  (2 * 2 + 1 = 5) ~~ 9
+for 4 it will be 9 +  (2 * 3 + 1 = 7) ~~ 16
+for 5 it will be 16 +  (2 * 4 + 1 = 9) ~~ 25
+for 6 it will be 25 +  (2 * 5 + 1 = 11) ~~ 36
+for 7 it will be 36 +  (2 * 6 + 1 = 13) ~~ 49
+for 8 it will be 49 +  (2 * 7 + 1 = 15) ~~ 64
+for 9 it will be 64 +  (2 * 8 + 1 = 17) ~~ 81
+for 10 it will be 81 +  (2 * 9 + 1 = 19) ~~ 100
+for 11 it will be 100 +  (2 * 10 + 1 = 21) ~~ 121
+for 12 it will be 121 +  (2 * 11 + 1 = 23) ~~ 144
+for 13 it will be 144 +  (2 * 12 + 1 = 25) ~~ 169
+for 14 it will be 169 +  (2 * 13 + 1 = 27) ~~ 196
+for 15 it will be 196 +  (2 * 14 + 1 = 29) ~~ 225
+for 16 it will be 225 +  (2 * 15 + 1 = 31) ~~ 256
+for 17 it will be 256 +  (2 * 16 + 1 = 33) ~~ 289
+for 18 it will be 289 +  (2 * 17 + 1 = 35) ~~ 324
+for 19 it will be 324 +  (2 * 18 + 1 = 37) ~~ 361
+for 20 it will be 361 +  (2 * 19 + 1 = 39) ~~ 400
+for 21 it will be 400 +  (2 * 20 + 1 = 41) ~~ 441
+
+If you want to learn tricks for squaring of number which ends with 5 like 05,15,25,35,....then see below else goto method 2.
+Its easy to learn this squares....
+
+The last digit will always contain 5 and first digit will vary from 0,1,2,3,4...and so on..
+Our answer will contains two part first and last part..
+Now we all know the square of 5 which is 25 so it will be our second part...
+And for the starting part you can multiply your number with its next number..
+Thats all our square is formed...
+Lets take an example...
+
+for 25 our last part will always be 25 and for first part it is 2*3 which is 6 so answer will be 625
+Some squares are...
+for 05 it will be 0 * 1 = 0 ~~ 025
+for 15 it will be 1 * 2 = 2 ~~ 225
+for 25 it will be 2 * 3 = 6 ~~ 625
+for 35 it will be 3 * 4 = 12 ~~ 1225
+for 45 it will be 4 * 5 = 20 ~~ 2025
+for 55 it will be 5 * 6 = 30 ~~ 3025
+for 65 it will be 6 * 7 = 42 ~~ 4225
+for 75 it will be 7 * 8 = 56 ~~ 5625
+for 85 it will be 8 * 9 = 72 ~~ 7225
+for 95 it will be 9 * 10 = 90 ~~ 9025
+for 105 it will be 10 * 11 = 110 ~~ 11025
+for 115 it will be 11 * 12 = 132 ~~ 13225
+for 125 it will be 12 * 13 = 156 ~~ 15625
+for 135 it will be 13 * 14 = 182 ~~ 18225
+for 145 it will be 14 * 15 = 210 ~~ 21025
+for 155 it will be 15 * 16 = 240 ~~ 24025
+for 165 it will be 16 * 17 = 272 ~~ 27225
+for 175 it will be 17 * 18 = 306 ~~ 30625
+for 185 it will be 18 * 19 = 342 ~~ 34225
+for 195 it will be 19 * 20 = 380 ~~ 38025
+
+Method 2:
+
+See clearly on both sides.You can easily see that the last two digit of both sides are same....
+
+And from 41 to 50 the first two digits are from 16 to 25. which are perfect square of 4 and 5 so you can remember them easily..
+
+0 ~~ 00		50 ~~ 2500
+1 ~~ 01		49 ~~ 2401
+2 ~~ 04		48 ~~ 2304
+3 ~~ 09		47 ~~ 2209
+4 ~~ 16		46 ~~ 2116
+5 ~~ 25		45 ~~ 2025
+6 ~~ 36		44 ~~ 1936
+7 ~~ 49		43 ~~ 1849
+8 ~~ 64		42 ~~ 1764
+9 ~~ 81		41 ~~ 1681
+10 ~~ 100		40 ~~ 1600
+11 ~~ 121		39 ~~ 1521
+12 ~~ 144		38 ~~ 1444
+13 ~~ 169		37 ~~ 1369
+14 ~~ 196		36 ~~ 1296
+15 ~~ 225		35 ~~ 1225
+16 ~~ 256		34 ~~ 1156
+17 ~~ 289		33 ~~ 1089
+18 ~~ 324		32 ~~ 1024
+19 ~~ 361		31 ~~ 961
+20 ~~ 400		30 ~~ 900
+21 ~~ 441		29 ~~ 841
+22 ~~ 484		28 ~~ 784
+23 ~~ 529		27 ~~ 729
+24 ~~ 576		26 ~~ 676
+	    25 ~~ 625
+
+Lets see an example: 
+
+lets take 36 , so what's the last two digit?? Now simply it is square of 50-36=14 which is 196 so last two digits are 96
+Now what about starting part...so we know square of 35 which is 1225 so it will around 35*2+1=71 to be added which is generally 12 itself in the first part.
+So it is 1296. we can calculate really fast.....Approximations are all need for first part of our number..
+
+
+Now take 47, so last part is 50-47=3 square of 3 ~ 9 so last two digits is 09
+and first two digit are 25-3=22. So our answer is 2209
+
+
+We can also analyse it with the following method :
+Let as understand with an example....
+
+Suppose we want a square for 37 then simply substract it from 50 therefore 50-37=13. So we got 13 here, now square of 13 is 169 as we know.
+Now substract 13 from 25 so we get 25-13=12 and multiply it with 100 therefore 12*100=1200 and finally add with square of 13 which is 169...
+So result is: 1200+169=1369 which is our answer. So square of 37 is 1369
+
+The idea which i get for this method is from the following table:
+
+(50) 2500  -  (0) 0  =  2500
+(49) 2401  -  (1) 1  =  2400
+(48) 2304  -  (2) 4  =  2300
+(47) 2209  -  (3) 9  =  2200
+(46) 2116  -  (4) 16  =  2100
+(45) 2025  -  (5) 25  =  2000
+(44) 1936  -  (6) 36  =  1900
+(43) 1849  -  (7) 49  =  1800
+(42) 1764  -  (8) 64  =  1700
+(41) 1681  -  (9) 81  =  1600
+(40) 1600  -  (10) 100  =  1500
+(39) 1521  -  (11) 121  =  1400
+(38) 1444  -  (12) 144  =  1300
+(37) 1369  -  (13) 169  =  1200
+(36) 1296  -  (14) 196  =  1100
+(35) 1225  -  (15) 225  =  1000
+(34) 1156  -  (16) 256  =  900
+(33) 1089  -  (17) 289  =  800
+(32) 1024  -  (18) 324  =  700
+(31) 961  -  (19) 361  =  600
+(30) 900  -  (20) 400  =  500
+(29) 841  -  (21) 441  =  400
+(28) 784  -  (22) 484  =  300
+(27) 729  -  (23) 529  =  200
+(26) 676  -  (24) 576  =  100
+
+You can also make your own formula by examine the above table...
+
+Now calculate fastly, say for 44 its 36+1900=1936 which is our answer. here 36 is square of 6 and 6 is 50-44 and also 19 is 25-6 with a multiple of 100..
+
+
+BY: ADMIRER
